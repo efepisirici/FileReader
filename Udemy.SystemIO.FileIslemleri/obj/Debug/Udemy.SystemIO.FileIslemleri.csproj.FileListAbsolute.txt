@@ -1,0 +1,15 @@
+C:\Users\Cengiz Atilla\Desktop\SystemIOIslemleri\Udemy.SystemIO\Udemy.SystemIO.FileIslemleri\bin\Debug\Udemy.SystemIO.FileIslemleri.exe.config
+C:\Users\Cengiz Atilla\Desktop\SystemIOIslemleri\Udemy.SystemIO\Udemy.SystemIO.FileIslemleri\bin\Debug\Udemy.SystemIO.FileIslemleri.exe
+C:\Users\Cengiz Atilla\Desktop\SystemIOIslemleri\Udemy.SystemIO\Udemy.SystemIO.FileIslemleri\bin\Debug\Udemy.SystemIO.FileIslemleri.pdb
+C:\Users\Cengiz Atilla\Desktop\SystemIOIslemleri\Udemy.SystemIO\Udemy.SystemIO.FileIslemleri\obj\Debug\Udemy.SystemIO.FileIslemleri.csprojAssemblyReference.cache
+C:\Users\Cengiz Atilla\Desktop\SystemIOIslemleri\Udemy.SystemIO\Udemy.SystemIO.FileIslemleri\obj\Debug\Udemy.SystemIO.FileIslemleri.csproj.CoreCompileInputs.cache
+C:\Users\Cengiz Atilla\Desktop\SystemIOIslemleri\Udemy.SystemIO\Udemy.SystemIO.FileIslemleri\obj\Debug\Udemy.SystemIO.FileIslemleri.exe
+C:\Users\Cengiz Atilla\Desktop\SystemIOIslemleri\Udemy.SystemIO\Udemy.SystemIO.FileIslemleri\obj\Debug\Udemy.SystemIO.FileIslemleri.pdb
+C:\Users\efe.pisirici\Desktop\Udemy.SystemIOKaynakDosyalar\Udemy.SystemIO.FileIslemleri\bin\Debug\Udemy.SystemIO.FileIslemleri.exe.config
+C:\Users\efe.pisirici\Desktop\Udemy.SystemIOKaynakDosyalar\Udemy.SystemIO.FileIslemleri\bin\Debug\Udemy.SystemIO.FileIslemleri.exe
+C:\Users\efe.pisirici\Desktop\Udemy.SystemIOKaynakDosyalar\Udemy.SystemIO.FileIslemleri\bin\Debug\Udemy.SystemIO.FileIslemleri.pdb
+C:\Users\efe.pisirici\Desktop\Udemy.SystemIOKaynakDosyalar\Udemy.SystemIO.FileIslemleri\obj\Debug\Udemy.SystemIO.FileIslemleri.csproj.AssemblyReference.cache
+C:\Users\efe.pisirici\Desktop\Udemy.SystemIOKaynakDosyalar\Udemy.SystemIO.FileIslemleri\obj\Debug\Udemy.SystemIO.FileIslemleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\efe.pisirici\Desktop\Udemy.SystemIOKaynakDosyalar\Udemy.SystemIO.FileIslemleri\obj\Debug\Udemy.SystemIO.FileIslemleri.csproj.CoreCompileInputs.cache
+C:\Users\efe.pisirici\Desktop\Udemy.SystemIOKaynakDosyalar\Udemy.SystemIO.FileIslemleri\obj\Debug\Udemy.SystemIO.FileIslemleri.exe
+C:\Users\efe.pisirici\Desktop\Udemy.SystemIOKaynakDosyalar\Udemy.SystemIO.FileIslemleri\obj\Debug\Udemy.SystemIO.FileIslemleri.pdb

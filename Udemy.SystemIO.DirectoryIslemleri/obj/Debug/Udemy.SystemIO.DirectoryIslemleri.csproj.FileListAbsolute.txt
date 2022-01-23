@@ -1,0 +1,7 @@
+C:\Users\Cengiz Atilla\Desktop\SystemIOIslemleri\Udemy.SystemIO\Udemy.SystemIO.DirectoryIslemleri\bin\Debug\Udemy.SystemIO.DirectoryIslemleri.exe.config
+C:\Users\Cengiz Atilla\Desktop\SystemIOIslemleri\Udemy.SystemIO\Udemy.SystemIO.DirectoryIslemleri\bin\Debug\Udemy.SystemIO.DirectoryIslemleri.exe
+C:\Users\Cengiz Atilla\Desktop\SystemIOIslemleri\Udemy.SystemIO\Udemy.SystemIO.DirectoryIslemleri\bin\Debug\Udemy.SystemIO.DirectoryIslemleri.pdb
+C:\Users\Cengiz Atilla\Desktop\SystemIOIslemleri\Udemy.SystemIO\Udemy.SystemIO.DirectoryIslemleri\obj\Debug\Udemy.SystemIO.DirectoryIslemleri.csprojAssemblyReference.cache
+C:\Users\Cengiz Atilla\Desktop\SystemIOIslemleri\Udemy.SystemIO\Udemy.SystemIO.DirectoryIslemleri\obj\Debug\Udemy.SystemIO.DirectoryIslemleri.csproj.CoreCompileInputs.cache
+C:\Users\Cengiz Atilla\Desktop\SystemIOIslemleri\Udemy.SystemIO\Udemy.SystemIO.DirectoryIslemleri\obj\Debug\Udemy.SystemIO.DirectoryIslemleri.exe
+C:\Users\Cengiz Atilla\Desktop\SystemIOIslemleri\Udemy.SystemIO\Udemy.SystemIO.DirectoryIslemleri\obj\Debug\Udemy.SystemIO.DirectoryIslemleri.pdb
